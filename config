@@ -38,22 +38,22 @@ selection-background = #fee4ce
 background-opacity = 0.8
 
 # Palette
-palette = 0=#181818
-palette = 1=#f43841
-palette = 2=#73d936
-palette = 3=#ffdd33
-palette = 4=#96a6c8
-palette = 5=#9e95c7
-palette = 6=#95a99f
-palette = 7=#e4e4e4
-palette = 8=#52494e
-palette = 9=#ff4f58
-palette = 10=#73d936
-palette = 11=#ffdd33
-palette = 12=#96a6c8
-palette = 13=#afafd7
-palette = 14=#95a99f
-palette = 15=#f5f5f5
+palette = 0=#000000
+palette = 1=#e24346
+palette = 2=#39b13a
+palette = 3=#dae145
+palette = 4=#4261c5
+palette = 5=#f920fb
+palette = 6=#2abbd4
+palette = 7=#d0b8a3
+palette = 8=#fefcfc
+palette = 9=#e97071
+palette = 10=#9cc090
+palette = 11=#ddda7a
+palette = 12=#7b91d6
+palette = 13=#f674ba
+palette = 14=#5ed1e5
+palette = 15=#d8c8bb
 
 # Decoration
 window-decoration = none
