@@ -32,8 +32,8 @@
 # Back and foreground
 foreground = #deb88d
 background = #09141b
-selection-foreground = #fee4ce
-selection-background = #1e4962
+selection-foreground = #1e4962
+selection-background = #fee4ce
 
 background-opacity = 0.8
 
@@ -45,8 +45,7 @@ cursor-style = bar
 cursor-color = #fca02f
 
 # Font
-font-size = 10
-font-thicken = false
+font-size = 11
 
 # # Some config options have unique syntaxes for their value,
 # # which is explained in the docs for that config option.
