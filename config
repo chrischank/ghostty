@@ -64,7 +64,9 @@ cursor-text = #08131a
 cursor-color = #fca02f
 
 # Font
-font-size = 11
+font-size = 10
+
+alpha-blending = linear-corrected
 
 # # Some config options have unique syntaxes for their value,
 # # which is explained in the docs for that config option.
